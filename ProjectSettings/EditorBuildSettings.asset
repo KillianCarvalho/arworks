@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/main_menu.unity
+    guid: 4acd3f927ceaf8942a87aefc4129896d
+  - enabled: 1
+    path: Assets/Scenes/BedScene.unity
+    guid: 12c7937e5b2337d43aa987255950b282
+  - enabled: 1
+    path: Assets/Scenes/LampScene.unity
+    guid: 46bda87f12c0bae43b3b3fff3a7afc30
+  - enabled: 1
+    path: Assets/Scenes/SofaChairScene.unity
+    guid: e5a9fc1a139c1f04baa4912442718e10
+  - enabled: 1
+    path: Assets/Scenes/LaundryBasketScene.unity
+    guid: d4a82ccb3786b3048a458eeb99ddc15c
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 0465d33c6aee55f44b0237db8b0e0259,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 64d218d3d62293c40af896dd0fb83604,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3fd4fc0127790db4bae83f7b77da8d45,
+      type: 2}
